@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there, I am Samuel Oyerinde 👋
 
 - 🔭 I’m currently working on MedHealthy
 - 🌱 I’m currently learning Reactjs
@@ -10,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/Samueloye91) [Linkedin](https://www.linkedin.com/in/oyerinde-samuel-46a9a3186/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Whatever good i set my eyes on i achieve it
--->
