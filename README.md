@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/samueloye91" target="blank"><img src="https://img.shields.io/twitter/follow/samueloye91?logo=twitter&style=for-the-badge" alt="samueloye91" /></a> </p>
 
-- 🔭 I’m currently working on **YoungAlightForum**
+- 🔭 I’m currently working on **LMS**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **interesting Open Source Projects**
 
 - 🤝 I’m looking for help with **Algorithm and Data Structure**
 
-- 💬 Ask me about **Adobe Audition Css Design Process**
+- 💬 Ask me about **System design**
 
 - ⚡ Fun fact **Whatever good i set my eyes to do i achieve it**
 
