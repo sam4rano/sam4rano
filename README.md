@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Samuel Oyerinde</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Building software that scale</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam4rano&label=Profile%20views&color=0e75b6&style=flat" alt="sam4rano" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/samueloye91" target="blank"><img src="https://img.shields.io/twitter/follow/samueloye91?logo=twitter&style=for-the-badge" alt="samueloye91" /></a> </p>
 
-- 🔭 I’m currently working on **LMS**
+- 🔭 I’m currently working on **AI-CENTRIC APP**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **interesting Open Source Projects**
 
-- 🤝 I’m looking for help with **Algorithm and Data Structure**
+- 🤝 I’m looking for help with **Core system Architecture**
 
-- 💬 Ask me about **System design**
+- 💬 Ask me about **System design and React update**
 
 - ⚡ Fun fact **Whatever good i set my eyes to do i achieve it**
 
