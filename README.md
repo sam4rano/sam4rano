@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI-CENTRIC APP**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Software Design and Architecture**
 
 - 👯 I’m looking to collaborate on **interesting Open Source Projects**
 
